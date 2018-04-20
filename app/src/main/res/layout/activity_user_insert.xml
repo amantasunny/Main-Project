@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+tools:context="com.example.akhila.finalproject.UserInsertActivity">
+
+
+<Button
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:onClick="browseImages"
+    android:text="Browse Image" />
+
+<ImageView
+    android:id="@+id/insertImages"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:src="@mipmap/ic_launcher" />
+
+<EditText
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="Enter Location"
+    android:id="@+id/insertLocation"/>
+
+<EditText
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="Enter Address"
+    android:id="@+id/insertAddress"/>
+
+<EditText
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="Enter Contact"
+    android:id="@+id/insertContact"/>
+<EditText
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="Enter Rate"
+    android:id="@+id/insertRate"/>
+<Button
+    android:id="@+id/upload"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Upload Data"/>
+
+
+</LinearLayout>
+

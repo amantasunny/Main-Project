@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "444441973011",
+    "firebase_url": "https://integerate.firebaseio.com",
+    "project_id": "integerate",
+    "storage_bucket": "integerate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444441973011:android:ae4a531b14cf22c1",
+        "android_client_info": {
+          "package_name": "cio.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444441973011-slclgt9j4b2fhkarenjra0e7emjfaogg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBftyOoPnAPteF1QfbcKC1QwDYgClrmUCM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444441973011:android:282b3dc62357237e",
+        "android_client_info": {
+          "package_name": "com.example.akhila.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444441973011-ipsju8len5s7d1nl8nbap80hd8ejnkth.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.akhila.finalproject",
+            "certificate_hash": "cbab8d2485f2ec44704aef01e83f58e75a087181"
+          }
+        },
+        {
+          "client_id": "444441973011-slclgt9j4b2fhkarenjra0e7emjfaogg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBftyOoPnAPteF1QfbcKC1QwDYgClrmUCM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444441973011-slclgt9j4b2fhkarenjra0e7emjfaogg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444441973011:android:353ecd195ab66859",
+        "android_client_info": {
+          "package_name": "com.example.hp.estayapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444441973011-slclgt9j4b2fhkarenjra0e7emjfaogg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBftyOoPnAPteF1QfbcKC1QwDYgClrmUCM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
